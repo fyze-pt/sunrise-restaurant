@@ -1,0 +1,7 @@
+{
+  "name": "Sunrise Restaurant - Costa de Caparica",
+  "description": "Culinária Portuguesa à Beira-Mar na Costa de Caparica. Sofisticação natural e sabores autênticos.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
